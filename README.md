@@ -32,7 +32,7 @@ The model successfully classifies news with good accuracy (you can add your resu
 git clone https://github.com/Abdelrahman4542/fake_and_real_news.git
 
 # Navigate to the project folder
-cd your-repo-name
+cd fake_and_real_news
 
 # Install dependencies
 pip install -r requirements.txt
