@@ -29,7 +29,7 @@ The model successfully classifies news with good accuracy (you can add your resu
 
 ▶️ How to Run
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Abdelrahman4542/fake_and_real_news.git
 
 # Navigate to the project folder
 cd your-repo-name
